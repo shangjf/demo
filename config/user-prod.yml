@@ -4,5 +4,5 @@ mysql:
   password: 123456
 
 eureka:
-  instance: localhost
-  port: 8011
+  instance: yulu-eureka.apps.pas.cloud.dhc.com.cn
+
