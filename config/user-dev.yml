@@ -6,3 +6,7 @@ mysql:
 eureka:
   instance: localhost
   port: 8011
+
+eureka:
+  instance: localhost
+  port: 8011
